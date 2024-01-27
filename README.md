@@ -1,10 +1,13 @@
+# WARNING
+This code is untested at the moment and may be unstable
+
 # Settings
 
 This file contains information about the various settings available in the project and how to configure them.
 
 ## Adjustable Settings
 
-The following settings can be adjusted to customize the behavior of the project:
+The following settings can be adjusted to customize the behaviour of the project:
 
 **General**
 
