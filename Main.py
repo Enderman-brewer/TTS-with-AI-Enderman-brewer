@@ -1,5 +1,5 @@
 print("______________________________________________")
-print("| Concept By Zack")
+print("| Concept By Enderman-brewer")
 print("| ...powered by Bard, the AI with a spark of genius.")
 print("------------------------------------------------")
 # Settings (frequently touched first)
